@@ -11,6 +11,7 @@ You can safely delete the *Instructions* artboard and/or page and start your own
 | Version | Font Awesome Version | Release Date |
 | :-----: | :------------------: | :----------: |
 | 1.0.0 | 4.1.0  | 2014-07-31 |
+| 1.1.0 | 4.4.0  | 2015-09-11 |
 
 ## Copyright and License
 
