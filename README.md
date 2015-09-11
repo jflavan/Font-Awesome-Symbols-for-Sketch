@@ -14,7 +14,7 @@ You can safely delete the *Instructions* artboard and/or page and start your own
 
 ## Copyright and License
 
-Symbols for Sketch is Copyright (c) 2014 [Seth Lilly](http://twitter.com/sethlilly).  
+This is a fork of Symbols for Sketch by [Seth Lilly](http://twitter.com/sethlilly) and maintained by [John Flavan](http://github.com/jflavan).  
 Uses [Font Awesome](http://fontawesome.io) by [Dave Gandy](http://twitter.com/davegandy).
  
 Symbols for Sketch licensed under [MIT License](http://opensource.org/licenses/mit-license.html)  
